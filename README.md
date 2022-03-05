@@ -1,17 +1,23 @@
 # 김선영의 github 홈페이지
 ## 본인 소개
+# 김선영의 github 홈페이지 <br>
 
-#나이 27살 <br>
-#전공 수학과 <br>
-#좋아하는 음식: 곱창, 삼겹살 <br>
-#코린이입니다. 
+|연락처| <br>
+ktw23723@gmail.com|
 
-<img src ="image.jpg" /> <br>
-[자료](/project.pptx)
+|자격증| <br>
+|2021년 ADsP|
+|2021년 GAIQ|
 
-##아이유 동영상입니다.
-<iframe width="1176" height="662" src="https://www.youtube.com/embed/3FoJqr5pIS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
- ##유용한 링크
-[네이버 홈].(https://naver.com)
-**Bold** and _Italic_ and `Code` text
+|수상|<br>
+|2018년 SCUDEM Student Competition Using Differential Equation Modeling 입선
+
+##IT 경험
+|Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화|<br>
+
+##기타 교육 
+|기타 교육|<br>
+|핀테크 아카데미 Pre-Course 과정 수료|  <br>
+|행복한 동행, 정보보안 및 개인정보보호 수료|  <br>
+|계획! 안정된 삶을 위한 재무설계 수료| <br>
+|파이썬 교육 수료| 
