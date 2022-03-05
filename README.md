@@ -22,5 +22,6 @@ ktw23723@gmail.com|
 #3 10개월 동안 컴퓨터 스킬 중급 수준까지 끌어올리기 <br>
 
 
+<img src ="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MDZfMTEy%2FMDAxNTk0MDM0MzkwNzcw.ii84LDnQld0GYFqQw3U-wBnvoWhAXGEfzk45U4wau6og.OMfB1DNElZautog9esFk2Z8dtvsLNmaytfrmwzYX-zsg.JPEG.gold2882%2FKakaoTalk_20200706_201647635_01.jpg&type=sc960_832">
 
 
