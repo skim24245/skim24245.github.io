@@ -11,10 +11,10 @@ ktw23723@gmail.com|
 |수상|<br>
 |2018년 SCUDEM Student Competition Using Differential Equation Modeling 입선
 
-##IT 경험
+## IT 경험
 |Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화|<br>
 
-##기타 교육 
+## 기타 교육 
 |기타 교육|<br>
 |핀테크 아카데미 Pre-Course 과정 수료|  <br>
 |행복한 동행, 정보보안 및 개인정보보호 수료|  <br>
