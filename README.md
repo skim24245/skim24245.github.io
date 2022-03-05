@@ -8,15 +8,17 @@ ktw23723@gmail.com|
 |ADsP|
 |GAIQ|
 
-|수상|<br>
-|SCUDEM Student Competition Using Differential Equation Modeling 입선|<br>
-
 ## IT 경험
 |Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화<br>
 |캠퍼스 내 필요한 IT 서비스 기능 데이터 분석|
 
 ## 기타 교육 
 |핀테크 아카데미 Pre-Course 과정 수료|  <br>
-|행복한 동행, 정보보안 및 개인정보보호 수료|  <br>
 |계획! 안정된 삶을 위한 재무설계 수료| <br>
-|파이썬 교육 수료| 
+
+## 목표 (10개월간) 
+#1 몰라도 주늑들지 말고 꾸준히 공부할 것 
+#2 좋은 정보 찾으면 함께 공유하기   
+#3 10개월 후에는 중급 수준까지 향상하기 
+
+
