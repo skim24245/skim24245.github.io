@@ -1,6 +1,5 @@
 # 김선영의 github 홈페이지
 ## 본인 소개
-# 김선영의 github 홈페이지 <br>
 
 |연락처| <br>
 ktw23723@gmail.com|
