@@ -12,7 +12,7 @@ ktw23723@gmail.com|
 |SCUDEM Student Competition Using Differential Equation Modeling 입선|<br>
 
 ## IT 경험
-|Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화<br>|
+|Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화<br>
 |캠퍼스 내 필요한 IT 서비스 기능 데이터 분석|
 
 ## 기타 교육 
