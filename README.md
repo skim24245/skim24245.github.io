@@ -5,11 +5,11 @@
 ktw23723@gmail.com|
 
 |자격증| <br>
-|2021년 ADsP|
-|2021년 GAIQ|
+|ADsP|
+|GAIQ|
 
 |수상|<br>
-|2018년 SCUDEM Student Competition Using Differential Equation Modeling 입선
+|SCUDEM Student Competition Using Differential Equation Modeling 입선|
 
 ## IT 경험
 Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화<br>
