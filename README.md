@@ -9,8 +9,8 @@
 |GAIQ|   <br>
 
 ## IT 스킬
-1.파이썬
-2.Tableau
+1.파이썬 <br>
+2.Tableau <br>
 
 ## 기타 교육 
 
