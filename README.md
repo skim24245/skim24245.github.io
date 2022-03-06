@@ -3,14 +3,14 @@
 
 |연락처| <br>
 |ktw23723@gmail.com|
+|취미|
+|헬스 및 등산|
 
-|자격증| <br>
+
+## IT 자격증 <br>
 |ADsP|   <br>
 |GAIQ|   <br>
 
-## IT 스킬
-|Python| <br>
-|Tableau| <br>
 
 ## 기타 교육 
 |핀테크 아카데미 Pre-Course 과정 수료|  <br>
