@@ -8,7 +8,7 @@
 |ADsP|   <br>
 |GAIQ|   <br>
 
-## IT 스킬
+## IT 스킬 <br>
 1. 파이썬
 2. Tableau
 
