@@ -2,7 +2,7 @@
 ## 본인 소개
 
 |연락처| <br>
-ktw23723@gmail.com
+|ktw23723@gmail.com|
 
 |자격증| <br>
 |ADsP|
