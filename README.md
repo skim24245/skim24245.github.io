@@ -23,7 +23,7 @@
 ## Github 사용법
 <iframe width="450" height="494" src="https://www.youtube.com/embed/UkT7n2CbiZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##PPT 
-[자기소개 링크](https://o365kopo-my.sharepoint.com/:b:/g/personal/heejinlee_office_kopo_ac_kr/Ea_ueurw4h1GlbyNK0mPzwEBms9hIV-SYDNSv5q26pd4PA?e=hCdjHl) <br>
+## PPT
+[자기소개 링크] (https://o365kopo-my.sharepoint.com/:b:/g/personal/heejinlee_office_kopo_ac_kr/Ea_ueurw4h1GlbyNK0mPzwEBms9hIV-SYDNSv5q26pd4PA?e=hCdjHl) <br>
 
 
