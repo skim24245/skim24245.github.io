@@ -5,8 +5,8 @@
 |ktw23723@gmail.com|
 
 |자격증| <br>
-|ADsP|
-|GAIQ|
+|ADsP|   <br>
+|GAIQ|   <br>
 
 ## IT 스킬
 Tableau 
