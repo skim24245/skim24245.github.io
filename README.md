@@ -21,7 +21,7 @@
 2.체력 관리 잘하기
 
 ## Github 사용법
-<iframe width="550" height="494" src="https://www.youtube.com/embed/UkT7n2CbiZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="494" src="https://www.youtube.com/embed/UkT7n2CbiZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
