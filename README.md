@@ -26,4 +26,7 @@
 ## PPT
 [자기소개 링크](https://o365kopo-my.sharepoint.com/:b:/g/personal/heejinlee_office_kopo_ac_kr/Ea_ueurw4h1GlbyNK0mPzwEBms9hIV-SYDNSv5q26pd4PA?e=hCdjHl) <br>
 
-
+## 관련링크
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
