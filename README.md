@@ -8,9 +8,9 @@
 |ADsP|   <br>
 |GAIQ|   <br>
 
-## IT 스킬 <br>
-1. 파이썬
-2. Tableau
+## IT 스킬
+1.파이썬
+2.Tableau
 
 ## 기타 교육 
 
